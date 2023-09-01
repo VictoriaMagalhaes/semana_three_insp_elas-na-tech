@@ -1,4 +1,4 @@
-<h1 align="center"> Desafio 2 | Inspira JA  -  elasNaTech </h1>
+<h1 align="center"> Desafio 3 | Inspira JA  -  elasNaTech </h1>
 
 <p align="center">
 Programa elasNaTech, realizado pela JA Brasil em parceria com o IBM SkillsBuild e com o apoio do Instituto CCR <br/>
@@ -26,12 +26,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Desafio da Semana 2:
-Continuação do Desafio 1;
-Escolher um Objetivo de Desenvolvimento Sustentável (ODS) da ONU e falar um pouco a respeito.
-Utilizando apenas HTML e CSS, criar pelo menos três sessões diferentes para expor suas ideias, utilizar imagens e vídeos para reforçar a mensagem.
+Desafio da Semana 3:
+Melhorar um pouco mais a Página Web criada desde o Desafio 1;
+O maior desafio é deixar a Página Web Responsiva.
+- infelizmente não consegui concluir o desafio de deixar Responsivo, mas continuarei estudando! -
 
-- [Visite o projeto online](https://victoriamagalhaes.github.io/elas_na_tech_d1/)
+- [Visite o projeto online](https://victoriamagalhaes.github.io//)
 
 ## 🔖 Saiba Mais
 
